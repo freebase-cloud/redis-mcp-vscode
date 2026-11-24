@@ -1,0 +1,6 @@
+{
+  "name": "redis-mcp-vscode",
+  "engine": "redis",
+  "slug": "redis",
+  "kind": "mcp"
+}
